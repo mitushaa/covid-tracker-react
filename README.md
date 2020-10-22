@@ -1,1 +1,1 @@
-# dashboard-react
+# Covid Tracker React 
